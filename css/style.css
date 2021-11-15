@@ -39,7 +39,9 @@ section#formHolder {
 .form {
   position: relative;
 }
-.form .form-peice { 
+
+.form .form-peice {
+
   background: #222c3c;
   color: #96a2b6;
   border-radius: 4px;
